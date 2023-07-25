@@ -1,0 +1,141 @@
+names:
+- Pepper Red
+- Apricot
+- Nectarine Flat
+- Potato Sweet
+- Strawberry
+- Grapefruit White
+- Salak
+- Clementine
+- Cactus fruit
+- Apple Braeburn
+- Tomato Yellow
+- Nut Pecan
+- Pepper Green
+- Mango
+- Maracuja
+- Onion White
+- Cucumber Ripe 2
+- Potato White
+- Cauliflower
+- Limes
+- Tomato Heart
+- Redcurrant
+- Banana Lady Finger
+- Pear Williams
+- Grape White 2
+- Raspberry
+- Strawberry Wedge
+- Lemon
+- Tomato Maroon
+- Pear Stone
+- Apple Red 2
+- Quince
+- Mangostan
+- Potato Red Washed
+- Pepper Orange
+- Tamarillo
+- Beetroot
+- Tomato not Ripened
+- Corn Husk
+- Corn
+- Peach 2
+- Avocado
+- Pear
+- Mulberry
+- Grape White 4
+- Mango Red
+- Apple Red 1
+- Kumquats
+- Grape Blue
+- Cherry 2
+- Mandarine
+- Tomato 2
+- Chestnut
+- Apple Golden 2
+- Onion Red Peeled
+- Grape White
+- Apple Red Yellow 2
+- Pear Abate
+- Guava
+- Blueberry
+- Nut Forest
+- Apple Granny Smith
+- Pineapple
+- Granadilla
+- Cherry Wax Black
+- Eggplant
+- Pomegranate
+- Cucumber Ripe
+- Pepino
+- Tomato Cherry Red
+- Pear Red
+- Cherry Wax Yellow
+- Apple Crimson Snow
+- Ginger Root
+- Apple Red 3
+- Lychee
+- Grape White 3
+- Tangelo
+- Nectarine
+- Pear Forelle
+- Physalis with Husk
+- Cherry Rainier
+- Rambutan
+- Plum 2
+- Apple Red Yellow 1
+- Onion Red
+- Grape Pink
+- Apple Pink Lady
+- Papaya
+- Peach Flat
+- Pineapple Mini
+- Dates
+- Pear Kaiser
+- Pitahaya Red
+- Pear Monster
+- Watermelon
+- Grapefruit Pink
+- Plum 3
+- Banana
+- Tomato 4
+- Melon Piel de Sapo
+- Cantaloupe 1
+- Potato Red
+- Physalis
+- Plum
+- Fig
+- Kiwi
+- Pomelo Sweetie
+- Pear 2
+- Cherry 1
+- Hazelnut
+- Tomato 1
+- Pepper Yellow
+- Cherry Wax Red
+- Cocos
+- Huckleberry
+- Banana Red
+- Lemon Meyer
+- Walnut
+- Avocado ripe
+- Tomato 3
+- Peach
+- Orange
+- Kohlrabi
+- Carambula
+- Apple Golden 1
+- Apple Red Delicious
+- Cantaloupe 2
+- Passion Fruit
+- Kaki
+- Apple Golden 3
+nc: 131
+roboflow:
+  license: CC BY 4.0
+  project: antiwaste
+  url: https://monsite.fr
+  version: 1
+  workspace: brad-dwyer
+train: train/images
+val: val/images
