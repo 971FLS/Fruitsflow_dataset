@@ -1,8 +1,9 @@
 Ce dataset comprend des photos de 131 fruits et légumes au format Yolo v8 pour apprentissage (Train) et évaluation (Val).
+Enjeu : quantifier le coût de passer d'une simple Reconnaissance Photo à de la Multi-segmentation Photo/Vidéo.
 
-Il a été créé afin de générer un stock d'images en situation dans l'optique d'améliorer le modèle Yolo v8.
+Il a été créé afin de générer un stock d'images en situation dans l'optique d'améliorer les résultats du modèle Yolo v8.
 Réalisé en Python, un script place les fruits et légumes en situation.
-Concrètement, à partir du jeu Kaggle Fruits360, les ingrédients sont placés sur un plan de travail ou dans un frigidaire afin de guider l'apprentissage vers des conditions réelles d'usage.
+Concrètement, les ingrédients sont placés aléatoirement sur un plan de travail, dans un frigidaire ou bien sur un fond de couleur aléatoire afin de guider l'apprentissage vers des conditions réelles d'utilisation.
 
 ![image](https://github.com/971FLS/Fruitsflow_dataset/assets/129274220/e2297f05-6362-4857-95d2-669fbe427239)
 
